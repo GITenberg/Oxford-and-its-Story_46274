@@ -1,0 +1,45 @@
+_repo: Oxford-and-its-Story_46274
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Railton, Herbert
+    birthdate: 1857
+    deathdate: 1910
+    gutenberg_agent_id: '42184'
+    url: http://www.gutenberg.org/2009/agents/42184
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+  - agent_name: Railton, Fanny
+    aliases:
+    - Railton, Mrs. Herbert
+    - Edney, Frances Janetta
+    gutenberg_agent_id: '42398'
+    url: http://www.gutenberg.org/2009/agents/42398
+covers:
+- cover_type: archival
+  image_path: 46274-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Headlam, Cecil
+    birthdate: 1872
+    deathdate: 1934
+    gutenberg_agent_id: '43693'
+    url: http://www.gutenberg.org/2009/agents/43693
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2014-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46274'
+  lccn: '13005523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mediæval town series
+subjects:
+- !lcc 'DA'
+- !lcsh 'Oxford (England) -- History'
+- !lcsh 'University of Oxford -- History'
+- !lcc 'LF'
+title: Oxford and Its Story
+url: http://www.gutenberg.org/ebooks/46274
