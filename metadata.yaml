@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '43693'
     url: http://www.gutenberg.org/2009/agents/43693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46274#Oxford-and-its-Story
 gutenberg_bookshelf: Mediæval Town Series
 gutenberg_issued: '2014-07-13'
 gutenberg_type: Text
